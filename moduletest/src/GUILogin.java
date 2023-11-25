@@ -63,7 +63,7 @@ public class GUILogin implements ActionListener {
         System.out.println(user + ", " + password);
 
         if(user.equals("Ainur") && password.equals("fluffydino123")) {
-            success.setText("Login successful!");
+            success.setText("Login successful!!!");
         }
 
     }
